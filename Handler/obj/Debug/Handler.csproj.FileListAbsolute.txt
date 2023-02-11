@@ -1,0 +1,11 @@
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.csproj.AssemblyReference.cache
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.Properties.Resources.resources
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.csproj.GenerateResource.cache
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\Handler\Handler\bin\Debug\Handler.exe.config
+C:\Users\Maksym\source\repos\Handler\Handler\bin\Debug\Handler.exe
+C:\Users\Maksym\source\repos\Handler\Handler\bin\Debug\Handler.pdb
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.HandlerForm.resources
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.exe
+C:\Users\Maksym\source\repos\Handler\Handler\obj\Debug\Handler.pdb
